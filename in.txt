@@ -1,0 +1,19 @@
+{
+int arr[3],t1,t2;
+int 1qbc;
+t1=2;arr[0]=1;arr[1]=2;arr[t]=3;
+t2=-(arr[2]+t1*10)/(arr[2]-t1);
+if t2>5
+  then Print(t2)
+ else
+ {
+  int t3; 
+  t3=199;
+  t2=-125;
+  print(-t1+t2*t3); 
+ /*this is a comment*/
+  
+ }
+endif
+}
+$
